@@ -144,5 +144,3 @@ Các kịch bản sau thường diễn ra:
            .thenReturn(Arrays.asList(1, 2, 3));
     
      Mockito chính là thư viện nổi tiếng nhất để ta  làm việc này.
-
-https://loda.me/test-huong-dan-toan-tap-mockito-loda1576641016810/
